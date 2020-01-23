@@ -1,0 +1,2 @@
+Image Type: BMP
+Size: 128x64
